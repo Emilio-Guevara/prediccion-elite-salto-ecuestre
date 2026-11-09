@@ -2,6 +2,14 @@
 
 Proyecto final de analítica predictiva, hecho con la metodología CRISP-DM.
 
+Equipo_4_Caballos
+Integrantes:
+Luca Amodio Díaz
+Carolina Bermejo Rodríguez
+Anna Sofia Fernández Mata
+Armando González Peña
+Emilio Guevara Elizondo
+
 ## La pregunta
 
 Con el historial de competencias de un caballo hasta los 8 años, ¿podemos predecir si su carrera va a llegar al nivel élite del salto ecuestre, es decir, un recorrido limpio a 160 cm?
