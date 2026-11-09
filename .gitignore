@@ -1,0 +1,7 @@
+# El CSV pesa 43 MB y los datos no son nuestros: se baja de Zenodo
+data/*.csv
+data/*.zip
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.DS_Store
