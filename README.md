@@ -51,10 +51,4 @@ Supera a la "regla del entrenador" (AUC 0.745). La regresión logística quedó 
 - `first_age_champion` no se usa porque es la respuesta disfrazada (fuga de datos).
 - Todo el preprocesamiento se ajusta solo con los datos de entrenamiento.
 
-## Cómo correrlo
 
-```bash
-pip install -r requirements.txt
-```
-
-Pon el CSV en `data/` y abre el notebook en VS Code, Jupyter o Colab.
