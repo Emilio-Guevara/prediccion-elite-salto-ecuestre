@@ -3,12 +3,19 @@
 Proyecto final de analítica predictiva, hecho con la metodología CRISP-DM.
 
 Equipo_4_Caballos
+
 Integrantes:
+
 Luca Amodio Díaz
+
 Carolina Bermejo Rodríguez
+
 Anna Sofia Fernández Mata
+
 Armando González Peña
+
 Emilio Guevara Elizondo
+
 
 ## La pregunta
 
